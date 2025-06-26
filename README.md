@@ -209,16 +209,6 @@ API_URL=sua_url_da_api
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👥 Equipe
-
-- **Desenvolvedor 1**: Configuração e estrutura base
-- **Desenvolvedor 2**: Autenticação e navegação
-- **Desenvolvedor 3**: Funcionalidades core
-- **Desenvolvedor 4**: Relatórios e UI/UX
-
-## 📞 Suporte
-
-Para suporte, envie um email para [seu-email@exemplo.com] ou abra uma issue no GitHub.
 
 ## 🔗 Links Úteis
 
